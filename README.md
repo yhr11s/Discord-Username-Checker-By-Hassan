@@ -2,5 +2,5 @@
 
 This project was made by Hassan
 
-Discord : "yhr112"
+Discord : "yhr112"\n
 ...................................................
